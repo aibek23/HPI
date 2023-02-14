@@ -1,0 +1,81 @@
+.post p {
+  font-size: 1.5rem;
+}
+
+.post {
+  margin: 1% 10%;
+}
+
+.image {
+  margin: 0 auto;
+}
+
+.image-bg img {
+  width: 100%;
+  opacity: 0.7;
+}
+.btn {
+  position: absolute !important;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#PaymentForm {
+  margin: 4vh;
+}
+.home {
+  text-decoration: none !important;
+}
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover {
+  background-color: #ffffff !important;
+  border: 1px solid black !important;
+  text-decoration: none !important;
+}
+.prodDetail {
+  display: flex;
+}
+.detail_body {
+  display: flex;
+  margin-bottom: 2%;
+}
+.detail_right {
+  display: flex;
+  flex-direction: column;
+}
+#desc {
+  font-size: 1.5rem;
+  color: black;
+}
+#price {
+  display: flex;
+  flex-direction: row-reverse;
+  font-size: 1.5rem;
+  margin-right: 5%;
+  font-weight: 800;
+}
+
+.history {
+  margin: 0 5%;
+  text-align: justify;
+}
+
+.h1-history {
+  text-align: center;
+}
+
+.nauka > li {
+  color: black;
+}
+
+.nayka {
+  margin: 0 5%;
+  text-align: justify;
+  color: black !important;
+}
+.nauka-second-text > li {
+  color: black;
+}
+
+.ainura > li {
+  color: black;
+}
